@@ -1,0 +1,11 @@
+[
+  {
+    "name": "titulo2",
+    "description": "descripcion del video2",
+    "genres": [
+      "algo"
+    ],
+    "price": 5,
+    "forRent": 100
+  }
+]
